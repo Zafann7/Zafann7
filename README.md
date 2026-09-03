@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nama Kamu</h1>
+<h1 align="center">Hi 👋, I'm Zafan Ahmad</h1>
 
 <table>
 <tr>
@@ -62,31 +62,26 @@
 <td valign="top">
 
 ```
-namakamu@github
+Zafann7@zfanar
 ----------------
-OS: Windows 11, Android 14
-Uptime: 22 tahun, 5 bulan
-Host: [Nama Laptop/PC]
-Kernel: [Framework/Tools favorit]
-IDE: VS Code 2024.x
+OS: Windows 11, Android 13, IOS 26.2
+Uptime: 19 Tahun
+Host: Acer Nitro V15
+Kernel: Laravel
+IDE: VS Code
 
-Languages.Programming: Java, Python, JavaScript
-Languages.Markup: HTML, CSS, JSON, LaTeX
+Languages.Programming: Java, Python, C++
+Languages.Markup: HTML, CSS, JSON
 Languages.Natural: Bahasa Indonesia, English
 
-Hobbies.Software: Web Development, Game Modding
-Hobbies.Hardware: Overclocking, Merakit PC
+Hobbies.Software: Web Development, Gaming
+Hobbies.Hardware: Electrical, PC Build
 
 Contact
-Email.Personal: email@example.com
-Email.Work: kerja@example.com
+Email.Personal.Work: zafanchock@gmail.com
 LinkedIn: linkedin.com/in/namakamu
-Discord: namakamu#0000
+Discord: xFanzsc#3086
 
-GitHub Stats
-Repos: 95 (Contributed: 1355) | Stars: 210
-Commits: 2138 | Followers: 130
-Lines of Code on GitHub: 448.379k
 ```
 
 </td>
@@ -113,5 +108,3 @@ Lines of Code on GitHub: 448.379k
 </p>
 
 ---
-
-<p align="center"><i>Terinspirasi dari gaya terminal fastfetch/neofetch profile card.</i></p>
