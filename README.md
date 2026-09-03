@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nama Kamu</h1>
+<h1 align="center">Hi 👋, I'm Zafan</h1>
 
 <p align="center">
   <img src="ascii-art.png" alt="ascii art profile" width="420"/>
