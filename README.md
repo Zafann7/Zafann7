@@ -6,31 +6,25 @@
 
 ```
 
-namakamu@github
+Zafann7@github
 ----------------
-OS: Windows 11, Android 14
+OS: Windows 11, Android 13, IOS 26.2
 Uptime: 22 tahun, 5 bulan
-Host: [Nama Laptop/PC]
-Kernel: [Framework/Tools favorit]
-IDE: VS Code 2024.x
+Host: [Acer Nitro V15]
+Kernel: [Laravel/VS Code]
+IDE: VS Code
 
-Languages.Programming: Java, Python, JavaScript
-Languages.Markup: HTML, CSS, JSON, LaTeX
+Languages.Programming: Python, C++
+Languages.Markup: HTML, CSS, JSON
 Languages.Natural: Bahasa Indonesia, English
 
-Hobbies.Software: Web Development, Game Modding
-Hobbies.Hardware: Overclocking, Merakit PC
+Hobbies.Software: Web Development, Gaming
 
 Contact
 Email.Personal: [email@example.com](mailto:email@example.com)
 Email.Work: [kerja@example.com](mailto:kerja@example.com)
 LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com/in/namakamu)
-Discord: namakamu#0000
-
-GitHub Stats
-Repos: 95 (Contributed: 1355) | Stars: 210
-Commits: 2138 | Followers: 130
-Lines of Code on GitHub: 448.379k
+Discord: xFanzsc
 
 ```
 
@@ -45,14 +39,12 @@ Lines of Code on GitHub: 448.379k
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zafann7&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zafann7&theme=tokyonight" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafann7&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
-
-<p align="center"><i>Terinspirasi dari gaya terminal fastfetch/neofetch profile card.</i></p>
